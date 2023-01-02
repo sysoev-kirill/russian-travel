@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Inter'; 
+   font-style: normal;
+   font-weight: 400;
+   src: url(../../russian-travel/fonts/Inter-Regular.woff2);
+}
+
+@font-face {
+	font-family: 'Inter'; 
+   font-style: normal;
+   font-weight: 700;
+   src: url(../../russian-travel/fonts/Inter-Bold.woff2);
+}
+
+
+@font-face {
+	font-family: 'Suisse Intl'; 
+   font-style: normal;
+   font-weight: 400;
+   src: url(../../russian-travel/fonts//SuisseIntl-Regular.woff2);
+}
+
+@font-face {
+	font-family: 'Inter'; 
+   font-style: normal;
+   font-weight: 900;
+   src: url(../../russian-travel/fonts/Inter-Black.woff2);
+
+}
