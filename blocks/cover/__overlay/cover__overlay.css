@@ -1,0 +1,15 @@
+.cover__overlay{
+   text-decoration: none;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+   height: calc(69vw - 7vw);
+   max-height: 740px;
+   max-width: 1184px;
+}
+
+.cover__overlay:hover .cover__background{
+   opacity: 0.5;
+}
