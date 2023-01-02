@@ -6,7 +6,6 @@
    font-weight: 900;
    font-size: 96px;
    line-height: 104%;
-   text-align: center;
    color: #FFFFFF;
    text-align: center;
 }
@@ -16,6 +15,6 @@
       max-width: 288px;
       font-size: 40px;
       line-height: 110%; 
-      margin-bottom: 16px;     
+      margin-bottom: 16px;
    }
 }
