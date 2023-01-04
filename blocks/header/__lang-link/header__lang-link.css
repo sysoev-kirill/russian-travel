@@ -7,21 +7,20 @@
    line-height: 117%;
    color: #FFFFFF;
    margin: 0 18px 0px 0;
-   border-bottom: 2px white solid;
    transition: .3s ease;
 }
 
 .header__lang-link:last-child{
-   border-bottom: 0;
    margin-right: 0;
 }
 
-.header__lang-link:last-child:hover{
-   border-bottom: 2px white solid;
-}
 
 @media screen and (max-width: 767px){
    .header__lang-link{
       font-size: 18px;
    }
+}
+
+.header__lang-link:hover{
+   opacity: 0.8;
 }

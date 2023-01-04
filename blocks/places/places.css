@@ -2,9 +2,16 @@
    margin-bottom: 92px;
 }
 
+@media screen and (max-width: 1023px){
+   .places{
+      margin-bottom: 90px;
+      }
+}
 
-@media screen and (max-width: 967px){
+@media screen and (max-width: 767px){
    .places{
       margin-bottom: 66px;
       }
 }
+
+

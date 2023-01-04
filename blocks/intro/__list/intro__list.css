@@ -11,9 +11,3 @@
    color: #FFFFFF;
 }
 
-@media screen and (max-width: 767px){
-   .intro__list{
-      font-size: 12px;
-      line-height: 150%;
-   }
-}

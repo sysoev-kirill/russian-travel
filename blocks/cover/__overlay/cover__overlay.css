@@ -4,12 +4,16 @@
    flex-direction: column;
    justify-content: center;
    align-items: center;
-   position: relative;
-   height: calc(69vw - 7vw);
-   max-height: 740px;
+   min-height: 740px;
    max-width: 1184px;
 }
 
 .cover__overlay:hover .cover__background{
-   opacity: 0.5;
+   opacity: 0.2;
+}
+
+@media screen and (max-width: 1184px){
+   .cover__overlay{
+      min-height: calc(100vw / 1.6);
+   }
 }

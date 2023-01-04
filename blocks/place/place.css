@@ -20,7 +20,7 @@
    .place{
       grid-template-columns:minmax(320px, 449.96px) minmax(288px, 466.32px);
       column-gap: 32.72px;
-      max-width: 949px;
+      max-width: 928px;
    }
 }
 
